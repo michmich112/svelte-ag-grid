@@ -1,11 +1,12 @@
 # svelte-ag-grid
+> Forked from [Budibase/svelte-ag-grid](https://github.com/Budibase/svelte-ag-grid)
 
 A barebones wrapper around ag-grid.
 
 Example usage:
 ```svelte
 <script>
-  import AgGrid from "@budibase/svelte-ag-grid";
+  import AgGrid from "@michmich112/svelte-ag-grid";
 
   let data = [
     { make: "Toyota", model: "Celica", price: 35000 },

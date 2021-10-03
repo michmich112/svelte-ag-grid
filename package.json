@@ -1,6 +1,6 @@
 {
-	"name": "@budibase/svelte-ag-grid",
-	"version": "1.1.0",
+	"name": "@michmich112/svelte-ag-grid",
+	"version": "1.1.1",
 	"svelte": "src/index.js",
 	"module": "dist/index.mjs",
 	"main": "dist/index.js",
@@ -26,6 +26,7 @@
 	],
 	"files": [
 		"src",
+    "types",
 		"dist"
 	]
 }
